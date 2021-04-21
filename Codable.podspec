@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://weibo.com/6349964978/profile?rightmod=1&wvr=6&mod=personinfo"
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
-  s.license      = "MIT 版权归朱李宏所有，任何人不得在未授权下使用"
+  s.license      = "MIT License"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
